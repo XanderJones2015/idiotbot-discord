@@ -1,4 +1,5 @@
 #idiotbotv1
+import os
 import asyncio
 import discord
 from discord.ext import commands
@@ -13,4 +14,5 @@ async def idiot(ctx, user: discord.Member):
 async def idiotm(ctx):
     await bot.say("Michael you idiot")
 
+bot.command
 bot.run("Mzg1OTY0Njk3MTI5NTgyNTky.DQJBKQ.UEICEHQXmqOQ4CAYgMW4pkBbepA")
