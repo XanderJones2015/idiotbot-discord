@@ -1,5 +1,4 @@
 #idiotbotv1
-import chalk
 import asyncio
 import discord
 from discord.ext import commands
