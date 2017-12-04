@@ -13,4 +13,8 @@ async def idiot(ctx, user: discord.Member):
 async def idiotm(ctx):
     await bot.say("Michael you idiot")
 
+//TODO ADD SONG CAPABILITIES
+
+
+
 bot.run("Mzg1OTY0Njk3MTI5NTgyNTky.DQJBKQ.UEICEHQXmqOQ4CAYgMW4pkBbepA")
