@@ -17,4 +17,4 @@ async def idiotm(ctx):
 
 
 
-bot.run("Mzg1OTY0Njk3MTI5NTgyNTky.DQJBKQ.UEICEHQXmqOQ4CAYgMW4pkBbepA")
+bot.run("")
